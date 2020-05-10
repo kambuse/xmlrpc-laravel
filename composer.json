@@ -1,0 +1,17 @@
+{
+    "name": "martinmarianetti/xml-rpc",
+    "description": "A simple xml-rpc wrapper for laravel based on incutio xml_library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Marianetti"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Martinmarianetti\\XmlRpc": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
