@@ -1,5 +1,5 @@
 {
-    "name": "martinmarianetti/xml-rpc",
+    "name": "kambuse/xml-rpc",
     "description": "A simple xml-rpc wrapper for laravel based on incutio xml_library",
     "license": "MIT",
     "authors": [
